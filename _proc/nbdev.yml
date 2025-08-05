@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-play"
+  site-url: "https://glenn-t.github.io/nbdev-play"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/glenn-t/nbdev-play"
