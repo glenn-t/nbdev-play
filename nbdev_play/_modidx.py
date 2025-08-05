@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://glenn-t.github.io',
                 'git_url': 'https://github.com/glenn-t/nbdev-play',
                 'lib_path': 'nbdev_play'},
-  'syms': {'nbdev_play.core': {'nbdev_play.core.foo': ('core.html#foo', 'nbdev_play/core.py')}}}
+  'syms': { 'nbdev_play.core': { 'nbdev_play.core.foo': ('core.html#foo', 'nbdev_play/core.py'),
+                                 'nbdev_play.core.say_hello': ('core.html#say_hello', 'nbdev_play/core.py')}}}
